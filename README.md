@@ -5,7 +5,7 @@ For now i have made ui for showing all events list and the ui for adding a new e
     For adding a new event i have included Locatoins contrller in the Events conroller because i need location id to be inserted in the events table.  
 
 Link for list of events
-http://localhost/codeint/index.php/Events/index
+http://localhost/codeint/index.php/Events/index  
 Link for adding a new event
 http://localhost/codeint/index.php/Events/add_event
 
