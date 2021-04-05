@@ -7,7 +7,9 @@ For now i have made ui for showing all events list and the ui for adding a new e
 Link for list of events
 http://localhost/codeint/index.php/Events/index  
 Link for adding a new event
-http://localhost/codeint/index.php/Events/add_event
+http://localhost/codeint/index.php/Events/add_event  
+
+database file event_portal.sql is in database dir.
 
 #### User Moled and CRUD is yet need to be implemented.
 #### All data validation is still left.
